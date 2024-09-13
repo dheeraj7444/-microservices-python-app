@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: nasi101/auth
+          image: dheeraj7444/auth
           ports:
             - containerPort: 5000
           envFrom:
